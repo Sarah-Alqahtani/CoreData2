@@ -13,7 +13,6 @@
 /* Begin PBXFileReference section */
 		84C8EBC9277BABAD003801D8 /* CoreData2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreData2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C8EBD2277BABAD003801D8 /* Document.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Document.swift; sourceTree = "<group>"; };
-		84C8EBDC277BABAE003801D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,7 +46,6 @@
 			isa = PBXGroup;
 			children = (
 				84C8EBD2277BABAD003801D8 /* Document.swift */,
-				84C8EBDC277BABAE003801D8 /* Info.plist */,
 			);
 			path = CoreData2;
 			sourceTree = "<group>";
